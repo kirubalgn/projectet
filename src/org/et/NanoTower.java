@@ -1,6 +1,6 @@
 package org.et;
 
-public class SaturnTower {
+public class NanoTower {
 	
 	public void ring() {
 		System.out.println("Fire on");
@@ -9,8 +9,8 @@ public class SaturnTower {
 
 	public static void main(String[] args) {
 		
-		SaturnTower s= new SaturnTower();
-		s.ring();
+		NanoTower n= new NanoTower();
+		n.ring();
 				
 
 	}
